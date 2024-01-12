@@ -1,6 +1,5 @@
 Quick EDA with Electricity Data Set
 ===================================
-
 Overview
 --------
 
