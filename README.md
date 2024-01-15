@@ -10,7 +10,7 @@ This repository contains a quick exploratory data analysis (EDA) of an electrici
 -   Data Processing
 
 `numpy` for numerical operations
-    -   `pandas` for data manipulation and analysis
+`pandas` for data manipulation and analysis
 -   Visualization
 
     -   `matplotlib` for creating visualizations
