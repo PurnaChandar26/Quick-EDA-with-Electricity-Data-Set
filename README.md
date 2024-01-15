@@ -22,7 +22,7 @@ This repository contains a quick exploratory data analysis (EDA) of an electrici
 `scipy.stats` for statistical operations
 -   File Path
 
-    -   `os` for managing file paths
+    `os` for managing file paths
 
 Dataset Information
 -------------------
