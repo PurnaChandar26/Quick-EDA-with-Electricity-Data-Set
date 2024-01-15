@@ -19,7 +19,7 @@ This repository contains a quick exploratory data analysis (EDA) of an electrici
 `seaborn` for enhancing the visual appeal of plots
 -   Statistics
 
-    -   `scipy.stats` for statistical operations
+`scipy.stats` for statistical operations
 -   File Path
 
     -   `os` for managing file paths
