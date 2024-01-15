@@ -15,7 +15,7 @@ This repository contains a quick exploratory data analysis (EDA) of an electrici
 -   Visualization
 
 `matplotlib` for creating visualizations
-    -   `seaborn` for enhancing the visual appeal of plots
+`seaborn` for enhancing the visual appeal of plots
 -   Statistics
 
     -   `scipy.stats` for statistical operations
